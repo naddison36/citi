@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": false,
+    "module": "CommonJS",
+    "target": "es5",
+    "noImplicitAny": true,
+    "noLib": false,
+    "inlineSourceMap": true,
+    "inlineSources": true
+  },
+  "files": [
+    "src/citi.ts",
+    "src/examples.ts"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "citi",
+  "version": "0.0.1",
+  "description": "Citi Mobile Challenge API Client for Node.JS",
+  "main": "citi.js",
+  "dependencies": {
+    "request": "~2.48.0",
+    "underscore": "~1.8.2",
+    "verror": "~1.6.0",
+    "cheerio": "~0.17.0"
+  },
+  "devDependencies": {
+    "typescript": "~1.6.2"
+  },
+
+  "typings": "citi",
+  "typescript": {
+    "definition": "node-0.10.d.ts"
+  },
+
+  "keywords": [
+    "Citi",
+    "Bank",
+    "Mobile",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naddison36/citi"
+  },
+  "author": "Nick Addison",
+  "license": "MIT"
+}
